@@ -1,3 +1,10 @@
+![Build](https://img.shields.io/badge/Build-Prototype-yellow)
+![Language](https://img.shields.io/badge/C%2B%2B-11-red)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20WSL-lightgrey)
+![Rendering](https://img.shields.io/badge/Rendering-ANSI%20Terminal-purple)
+![Status](https://img.shields.io/badge/Status-Active-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Terminal-Hybrid-Engine
 
 A high-performance, cross-language game engine prototype designed for Linux-based terminal environments (Termux/Ubuntu). This project demonstrates the integration of C++ for low-level system rendering and Python for high-level application logic.
